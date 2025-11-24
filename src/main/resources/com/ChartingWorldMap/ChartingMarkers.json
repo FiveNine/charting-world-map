@@ -1,0 +1,4298 @@
+[
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1232,
+            3005
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Collapsed crab hole|collapsed cave]] on a small island south west of the [[Tlati Rainforest]]."
+        },
+        "id": "353"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2781,
+            2815
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Crashed glider (Sailing)|crashed glider]] north of [[Ape Atoll]]."
+        },
+        "id": "90"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2987,
+            3010
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Crashed glider (Sailing)|crashed glider]] south of the [[Karamja]] Shipyard."
+        },
+        "id": "7"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2133,
+            3589
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Box of outfits|crate of discarded goods]] north of [[Drumstick Isle]].  ."
+        },
+        "id": "186"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3243,
+            2702
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Golem corpse|damaged golem]] east of [[Menaphos]]."
+        },
+        "id": "276"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2383,
+            3769
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Waterlogged book|discarded book]] south of [[Jatizso]]."
+        },
+        "id": "199"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2026,
+            3669
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Partial ship|half-built ship]] west of [[Buccaneers' Haven]]."
+        },
+        "id": "161"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2681,
+            2714
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Atoll cape flag|makeshift flag]] near [[Cape Atoll]]."
+        },
+        "id": "84"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2798,
+            2891
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Map in a bottle|map]] south west of the [[Kharazi Jungle]] and copy it."
+        },
+        "id": "92"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1896,
+            2994
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Seagull Nest|nest]] on [[Vatrachos Island]]."
+        },
+        "id": "297"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3284,
+            2514
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[The Minor Conch|notable small shell]] north east of the [[Great Conch]]."
+        },
+        "id": "98"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2681,
+            3134
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[notice from General Khazard]] south east of [[Port Khazard]]."
+        },
+        "id": "35"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2702,
+            3151
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Row boat (Sea charting)|rowboat]] off the west coast of [[Karamja]] near [[Port Khazard]]."
+        },
+        "id": "33"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1789,
+            3401
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[sabotaged mooring point]] on [[Crabclaw Island]]."
+        },
+        "id": "338"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2769,
+            3267
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Charts in a bottle|set of someone else's charts]] south of the [[Fishing Platform]] and copy them."
+        },
+        "id": "30"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3375,
+            2135
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[ship in a bottle]] south of [[the Little Pearl]]."
+        },
+        "id": "277"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2149,
+            2615
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a spool of [[Barracuda grade rope]] east of [[Wintumber Island]]."
+        },
+        "id": "88"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3216,
+            2466
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Crab apple tree|strange apple tree]] somewhere on the [[Great Conch]]."
+        },
+        "id": "99"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1871,
+            3177
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Spiny kraken corpse|strange corpse]] north east of [[Civitas illa Fortis]]."
+        },
+        "id": "340"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2944,
+            3138
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Stone tablet (Sailing)|strange stone tablet]] south east of [[Musa Point]]."
+        },
+        "id": "6"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3079,
+            3231
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[treacherous rock]] formation near [[Draynor Village]]."
+        },
+        "id": "4"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3182,
+            3136
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[treacherous rock]] formation south of [[Lumbridge Swamp]]."
+        },
+        "id": "18"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2905,
+            3281
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[treacherous rock]] formation west of the [[Crafting Guild]]."
+        },
+        "id": "21"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3075,
+            2601
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Treasure chest (Sea charting)|treasure chest]] south east of [[Dognose Island]]."
+        },
+        "id": "94"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2873,
+            3260
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Dragon activity marker|warning about dragons]] east of Crandor."
+        },
+        "id": "22"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1448,
+            2896
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Prop shipwreck|wrecked shiplike thing]] south of [[Villa Lucens]]."
+        },
+        "id": "351"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1656,
+            3304
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[advert]] on a small island north east of [[Salvager Overlook]]."
+        },
+        "id": "337"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1980,
+            3232
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Wreck of the Last Song|elven shipwreck]] in the middle of the [[Crystal Sea]]."
+        },
+        "id": "158"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2528,
+            3818
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Polite notice|informative sign]] on a small island south of [[Miscellania]]."
+        },
+        "id": "198"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1593,
+            2755
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Dictionary|interesting book]] on the [[Shimmering Atoll]]."
+        },
+        "id": "299"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1529,
+            3405
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Sign (Sea charting)|interesting sign]] south east of Land's End."
+        },
+        "id": "336"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2695,
+            2981
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Mid Feldip Ridge|odd geological phenomenon]] in the middle of the [[Feldip Gulf]]."
+        },
+        "id": "136"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2719,
+            2296
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Ominous sea light|odd light]] south west of [[Last Light]]."
+        },
+        "id": "103"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1976,
+            2680
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Lurking Shadow|odd shadow]] south of [[Deepfin Point]]."
+        },
+        "id": "300"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2066,
+            2608
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Crab monument|odd statue]] on [[Wintumber Island]]."
+        },
+        "id": "95"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3133,
+            3053
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Corpse (Sailing)|unfortunate corpse]] on a small island south east of [[Tutorial Island]]."
+        },
+        "id": "17"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1887,
+            3424
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Charred remains of a table|evidence of an experiment]] on [[Chinchompa Island]]."
+        },
+        "id": "339"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2300,
+            3662
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Kraken slime|evidence of kraken activity]] south west of the [[Piscatoris Fishing Colony]]."
+        },
+        "id": "187"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2760,
+            3364
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Megashrimp droppings|evidence of megashrimp activity]] east of the [[Legends' Guild]]."
+        },
+        "id": "26"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2225,
+            3892
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Magical wards|evidence of some strong magical spells]] east of [[Lunar Isle]]."
+        },
+        "id": "201"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1947,
+            2985
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Sharhai's purse|evidence of the Sharhai]] east (The in-game chart mentions West but it is incorrect.) of [[Vatrachos Island]]."
+        },
+        "id": "157"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3143,
+            2770
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[Sand pit (Sea charting)|collected sand]] on an island west of [[Menaphos]]."
+        },
+        "id": "193"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2843,
+            2837
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[Rapids?|curious rapids]] west of [[Rock Island Prison]]."
+        },
+        "id": "93"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1855,
+            3586
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[Discarded plough|discarded farming equipment]] east of [[Hosidius]]."
+        },
+        "id": "188"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1439,
+            2716
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[Tangle of fishing nets|discarded fishing equipment]] in the middle of the [[Misty Sea]]."
+        },
+        "id": "352"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2634,
+            2392
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[dragon scales]] on [[Charred Island]]."
+        },
+        "id": "102"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2881,
+            2750
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[Tiny briny shrimp|interesting aquatic life]] north west of [[Crash Island]]."
+        },
+        "id": "91"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2089,
+            2797
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Jellyfish|some interesting sea life]] in the middle of [[Soul Bay]]."
+        },
+        "id": "143"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1996,
+            2947
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Floating eggs|some interesting sea life]] in the middle of the [[Western Gate]]."
+        },
+        "id": "142"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2897,
+            3335
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[Thorns|odd aquatic plant life]] west of the [[Dark Wizards' Tower]]."
+        },
+        "id": "25"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1762,
+            2580
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Horde of tiny sea creatures|some odd sea life]] in the middle of the [[Sapphire Sea]]."
+        },
+        "id": "301"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2587,
+            3657
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[suspicious eyes]] west of [[Rellekka]]."
+        },
+        "id": "196"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1847,
+            3796
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Broken crane|something in desperate need of repair]] north east of [[Port Piscarilius]]."
+        },
+        "id": "189"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2281,
+            2447
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of a Barracuda ship]] north east of [[Sunbleak Island]]."
+        },
+        "id": "89"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2587,
+            2593
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Balanced Ballast]] south west of the [[Void Knights' Outpost]]."
+        },
+        "id": "87"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1845,
+            2824
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Counterweight]] north west of [[Deepfin Point]]."
+        },
+        "id": "298"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3126,
+            3202
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Grandyozenaym]] north east of the [[Wizards' Tower]]."
+        },
+        "id": "5"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2170,
+            3773
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Lunar Longship]] south west of [[Pirates' Cove]]."
+        },
+        "id": "342"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3054,
+            3051
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Salty Grouper]] south west of [[Tutorial Island]]."
+        },
+        "id": "8"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2741,
+            3270
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Shelled Snail]] east of [[Witchaven]]."
+        },
+        "id": "29"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2289,
+            2712
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Soul Searcher]] south west of the [[Tear of the Soul]]."
+        },
+        "id": "139"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2634,
+            2882
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[Enormous skeleton|corpse of a sea monster]] north east of [[Corsair Cove]]."
+        },
+        "id": "137"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2804,
+            2460
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[Shifter corpse|corpse of a wayward shifter]] on a small island south of [[Red Rock]]."
+        },
+        "id": "86"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2963,
+            2264
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[Bird nest (Sea charting)|nest of a fearless bird]] on [[the Onyx Crest]]."
+        },
+        "id": "275"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2479,
+            3546
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[Tree roots|roots of the Grand Tree]] in [[Grandroot Bay]]."
+        },
+        "id": "197"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1890,
+            3271
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[Port roberts jail visitors book|visitors book]] for the [[Port Roberts]] jail."
+        },
+        "id": "341"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2973,
+            2994
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Pandemonium II]] west of [[the Pandemonium]]."
+        },
+        "id": "15"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3143,
+            2979
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Pandemonium III]] west of the [[Kharidian Bandit Camp]]."
+        },
+        "id": "16"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2633,
+            3039
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[Wreck of the Floaty Boaty|wreck of an ogre ship]] in [[Gu'tanoth Bay]]."
+        },
+        "id": "135"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2693,
+            2793
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the wreck of the [[bananaless boat]] west of [[Ape Atoll]]."
+        },
+        "id": "85"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2720,
+            3103
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Rock of Colbansea|what remains of Colbansea Island]] in the middle of the [[Strait of Khazard]]."
+        },
+        "id": "34"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3029,
+            3207
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Interact with the [[salvaging station]] in [[Port Sarim]]."
+        },
+        "id": "1"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3030,
+            3198
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Look at the [[port task board]] in [[Port Sarim]]."
+        },
+        "id": "0"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3051,
+            9388
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to admire [[Chartin' Charles McAtless]] in the cave on [[the Pandemonium]]."
+        },
+        "id": "357"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1413,
+            3394
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Auburnvale]] from the north."
+        },
+        "id": "316"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1600,
+            3310
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Salvager Overlook]] from the west."
+        },
+        "id": "317"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1470,
+            2980
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Sunset Coast]] from the west."
+        },
+        "id": "343"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2101,
+            3702
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Buccaneers' Haven]] from the north."
+        },
+        "id": "320"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1744,
+            3405
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Crabclaw Island]] from the south west."
+        },
+        "id": "318"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1943,
+            2737
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Deepfin Point]] from the south."
+        },
+        "id": "288"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2784,
+            3401
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Keep le Faye]] from the east."
+        },
+        "id": "27"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2895,
+            2326
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Last Light]] from the east."
+        },
+        "id": "83"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1387,
+            2840
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Mistrock]] from the south."
+        },
+        "id": "344"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1846,
+            3769
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Port Piscarilius]] from north of the [[Foodhall]]."
+        },
+        "id": "179"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1886,
+            3266
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Port Roberts]] from the south."
+        },
+        "id": "319"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1796,
+            2664
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[the Crown Jewel]] from the east."
+        },
+        "id": "289"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3045,
+            2995
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[the Pandemonium]] from the cave entrance on the island."
+        },
+        "id": "14"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2664,
+            3219
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Tower of Life (building)|Tower of Life]] from the east."
+        },
+        "id": "36"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3154,
+            2548
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Abalone Cliffs]] from the north east."
+        },
+        "id": "82"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1634,
+            2883
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Colossal Wyrm Remains]] from the south."
+        },
+        "id": "287"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2779,
+            3265
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Fishing Platform]] from the south."
+        },
+        "id": "31"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1823,
+            3046
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Fortis Colosseum]] from the south."
+        },
+        "id": "285"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3008,
+            3049
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Karamja Shipyard]] from the east."
+        },
+        "id": "10"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2839,
+            3210
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Karamja Volcano]] from the north."
+        },
+        "id": "23"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2303,
+            3700
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Piscatoris Fishing Colony]] from the north west."
+        },
+        "id": "177"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3187,
+            2430
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Summer Shore]] from the cliffs above it on the [[Great Conch]]."
+        },
+        "id": "81"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1861,
+            3528
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Tithe Farm]] from the north east."
+        },
+        "id": "178"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2654,
+            2682
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Void Knights' Outpost]] from the north."
+        },
+        "id": "76"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3104,
+            3181
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Wizards' Tower]] from the north."
+        },
+        "id": "2"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2636,
+            3874
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the castle on [[Etceteria]] from the east."
+        },
+        "id": "232"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2477,
+            3862
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the castle on [[Miscellania]] from the west."
+        },
+        "id": "230"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3261,
+            2506
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the coast of the [[Great Conch]] from the north east."
+        },
+        "id": "270"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2597,
+            3027
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the island in [[Gu'tanoth Bay]] from the east."
+        },
+        "id": "108"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2504,
+            3612
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the lighthouse on [[Rower's Arm]] from the south."
+        },
+        "id": "229"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2636,
+            3707
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the market in [[Rellekka]] from the north."
+        },
+        "id": "228"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2160,
+            3901
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the pirate galleon docked at [[Lunar Isle]] from the east."
+        },
+        "id": "233"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3145,
+            2734
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the pyramid in [[Menaphos]] from the west."
+        },
+        "id": "191"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2128,
+            2983
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the ruined tower on the [[Isle of Souls]] from the south."
+        },
+        "id": "113"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1737,
+            2907
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the south eastern temple in the [[Avium Savannah]] from the south."
+        },
+        "id": "286"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3050,
+            2656
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the surrounding sea from [[Dognose Island]]."
+        },
+        "id": "79"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2828,
+            2785
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the temple on [[Ape Atoll]] from the east."
+        },
+        "id": "77"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2605,
+            2867
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the throne in [[Corsair Cove]] from the east."
+        },
+        "id": "109"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2366,
+            3777
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the towers on the [[Fremennik Isles]] from the south."
+        },
+        "id": "231"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2051,
+            3913
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the town on [[Lunar Isle]] from the west."
+        },
+        "id": "234"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3145,
+            3134
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the western mine in [[Lumbridge Swamp]] from the south."
+        },
+        "id": "19"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1826,
+            2957
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] east of [[Stonecutter Outpost]] and sample [[Bottle_of_alco-sol|the contents]]."
+        },
+        "id": "290"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            3277,
+            3135
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the [[Lum Lagoon]] and sample the contents."
+        },
+        "id": "39"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1050,
+            2886
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the far west of [[Dusk's Maw]] and sample the contents."
+        },
+        "id": "356"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2453,
+            3597
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of [[Grandroot Bay]] and sample the contents."
+        },
+        "id": "254"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1783,
+            3252
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of [[Litus Lucis]] and sample the contents."
+        },
+        "id": "333"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1926,
+            3394
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of [[Pilgrims' Passage]] and sample the contents."
+        },
+        "id": "332"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2474,
+            3798
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of [[V's Belt]] and sample the contents."
+        },
+        "id": "255"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2387,
+            2477
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of [[the Skullhorde]] and sample the contents."
+        },
+        "id": "293"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1762,
+            2854
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of the [[Aureum Coast]] and sample the contents."
+        },
+        "id": "291"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2008,
+            3261
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of the [[Crystal Sea]] and sample [[Bottle of slippery snake skins in possibly gravy|the contents]]."
+        },
+        "id": "163"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2691,
+            2940
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of the [[Feldip Gulf]] and sample the contents."
+        },
+        "id": "116"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1934,
+            3742
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of the [[Gulf of Kourend]] and sample the contents."
+        },
+        "id": "183"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1993,
+            2972
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of the [[Western Gate]] and sample the contents."
+        },
+        "id": "162"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2359,
+            3878
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the waters of the [[Fremennik Isles]] and sample the contents."
+        },
+        "id": "261"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2079,
+            3655
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Buccaneers' Haven]] and sample the contents."
+        },
+        "id": "181"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            3046,
+            2665
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Dognose Island]] and sample the contents."
+        },
+        "id": "64"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2869,
+            3378
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Entrana]] and sample the contents."
+        },
+        "id": "40"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2840,
+            2280
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Last Light]] and sample the contents."
+        },
+        "id": "67"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            3190,
+            2706
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Menaphos]] and sample the contents."
+        },
+        "id": "195"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1426,
+            2865
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Mistrock]] and sample the contents."
+        },
+        "id": "354"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2994,
+            3134
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Mudskipper Point]] and sample the contents."
+        },
+        "id": "38"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2778,
+            2523
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Red Rock]] and sample the contents."
+        },
+        "id": "278"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2888,
+            2857
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Rock Island Prison]] and sample the contents."
+        },
+        "id": "63"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2624,
+            3069
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Yanille]] and sample the contents."
+        },
+        "id": "115"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            3013,
+            2998
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[the Pandemonium]] and sample the contents."
+        },
+        "id": "11"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2522,
+            2248
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near some shipwrecks in [[the Lonely Sea]] and sample the contents."
+        },
+        "id": "281"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1561,
+            2655
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near some shipwrecks in the [[Misty Sea]] and sample the contents."
+        },
+        "id": "355"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2142,
+            3874
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near the [[Lunar Isle]] docks and sample [[Bottle of exile's welcome|the contents]]. Reverse into the pier to reach it."
+        },
+        "id": "258"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1570,
+            2808
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near the [[Shimmering Atoll]] and sample the contents."
+        },
+        "id": "292"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2677,
+            2654
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near the [[Void Knights' Outpost]] and sample the contents."
+        },
+        "id": "60"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2674,
+            3103
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near the [[Yanille Chain]] and sample the contents."
+        },
+        "id": "41"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2282,
+            2506
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near the bank boat in the [[Barracuda Belt]] and sample the contents."
+        },
+        "id": "61"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2689,
+            3732
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] north of [[Rellekka]] and sample the contents."
+        },
+        "id": "253"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2273,
+            3745
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] north west of the [[Piscatoris Fishing Colony]] and sample the contents."
+        },
+        "id": "256"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2248,
+            3744
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] north west of the [[Piscatoris Fishing Colony]] and sample the contents."
+        },
+        "id": "334"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2816,
+            2733
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] off the eastern coast of [[Ape Atoll]] and sample the contents."
+        },
+        "id": "62"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1887,
+            3556
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] off the eastern coast of [[Hosidius]] and sample the contents."
+        },
+        "id": "182"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2221,
+            2765
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] off the southern coast of the [[Isle of Souls]] and sample the contents."
+        },
+        "id": "123"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            3098,
+            2458
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] off the western coast of [[the Great Conch]] and sample the contents."
+        },
+        "id": "65"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2086,
+            2882
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] off the western coast of the [[Isle of Souls]] and sample the contents."
+        },
+        "id": "122"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2651,
+            3811
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] south east of [[Etceteria]] and sample the contents."
+        },
+        "id": "257"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2595,
+            2787
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] south of [[Corsair Cove]] and sample the contents."
+        },
+        "id": "117"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            3239,
+            2598
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] south of [[Menaphos]] and sample the contents."
+        },
+        "id": "279"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2030,
+            3829
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] south west of [[Lunar Isle]] and sample the contents."
+        },
+        "id": "335"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            3301,
+            2146
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] south west of [[the Little Pearl]] and sample the contents."
+        },
+        "id": "280"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1437,
+            3430
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] west of [[Land's End]] and sample the contents."
+        },
+        "id": "331"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1854,
+            2771
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] west of [[Deepfin Point]] and sample the contents."
+        },
+        "id": "294"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2556,
+            2664
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] west of the [[Void Knights' Outpost]] and sample the contents."
+        },
+        "id": "118"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1675,
+            2478
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] where three waters meet in the [[Sapphire Sea]] and sample the contents."
+        },
+        "id": "295"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2890,
+            3121
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents at the mouth of the [[River Amja]] south of [[Musa Point]]."
+        },
+        "id": "9"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1422,
+            3046
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents at the mouth of the [[River Varla]]."
+        },
+        "id": "346"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1978,
+            3106
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents east of [[Minotaurs' Rest]]."
+        },
+        "id": "147"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1920,
+            3296
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents east of [[Port Roberts]]."
+        },
+        "id": "329"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1721,
+            3237
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents east of the [[Twilight Temple]]."
+        },
+        "id": "328"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2369,
+            3507
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents in the [[River Crannmor]]."
+        },
+        "id": "210"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            3204,
+            2367
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents near the [[Summer Shore]] docks on the [[Great Conch]]."
+        },
+        "id": "73"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2428,
+            3831
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north east of [[Jatizso]]."
+        },
+        "id": "211"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2902,
+            2548
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north east of [[Red Rock]]."
+        },
+        "id": "71"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1779,
+            2988
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north east of [[Stonecutter Outpost]]."
+        },
+        "id": "303"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2561,
+            3626
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north of [[Rower's Arm]]."
+        },
+        "id": "209"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            3185,
+            2654
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north of the island south of [[Menaphos]]."
+        },
+        "id": "194"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1813,
+            3664
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north west of [[the Dibber]]."
+        },
+        "id": "175"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2767,
+            2895
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents off the south western coast of the [[Kharazi Jungle]]."
+        },
+        "id": "70"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2080,
+            2859
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents off the western coast of the [[Isle of Souls]]."
+        },
+        "id": "133"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2648,
+            3244
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south east of [[Ardougne Zoo]]."
+        },
+        "id": "32"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2645,
+            2974
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south east of [[Rantz's cave]]."
+        },
+        "id": "130"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1384,
+            3465
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south of [[Lacerta Falls]]."
+        },
+        "id": "327"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2159,
+            3849
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south of the [[Astral Altar]] on [[Lunar Isle]]."
+        },
+        "id": "214"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2665,
+            2560
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south of the pest-filled island near the [[Void Knights' Outpost]]."
+        },
+        "id": "69"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            3082,
+            3201
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south of the small island in the [[Bay of Sarim]]."
+        },
+        "id": "3"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2691,
+            2703
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south west of [[Cape Atoll]]."
+        },
+        "id": "68"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1259,
+            2876
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south west of the [[Darkmoon Ravine]]."
+        },
+        "id": "347"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            3145,
+            2963
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south west of the [[Kharidian Bandit Camp]]."
+        },
+        "id": "13"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2902,
+            3317
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south west of the [[Makeover Mage]]'s home."
+        },
+        "id": "24"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2835,
+            3417
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south west of the [[Obelisk of Water]]."
+        },
+        "id": "28"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2947,
+            2584
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents south west of the remote island in the [[Turtle Belt]]."
+        },
+        "id": "266"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            3279,
+            2463
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents to the east of the eastern pier on the [[Great Conch]]."
+        },
+        "id": "268"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            3337,
+            2179
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents to the south west of [[the Little Pearl]]."
+        },
+        "id": "269"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            3248,
+            2703
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents to the south west of the [[Elid Delta]]."
+        },
+        "id": "267"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2624,
+            2415
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of [[Charred Island]]."
+        },
+        "id": "75"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1871,
+            3430
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of [[Chinchompa Island]]."
+        },
+        "id": "174"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2305,
+            3795
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of [[Neitiznot]]."
+        },
+        "id": "212"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2122,
+            3796
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of [[Pirates' Cove]]."
+        },
+        "id": "330"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1745,
+            2662
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of [[the Crown Jewel]]."
+        },
+        "id": "306"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2488,
+            2530
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of the [[Isle of Bones]]."
+        },
+        "id": "305"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            3209,
+            3134
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of the [[Lum Lagoon]]."
+        },
+        "id": "20"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2695,
+            3828
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of the hunter area near [[Trollweiss Mountain]]."
+        },
+        "id": "213"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2664,
+            3172
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of the trawler in [[Port Khazard]]."
+        },
+        "id": "37"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1543,
+            2785
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents within the [[Shimmering Atoll]]."
+        },
+        "id": "304"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3065,
+            2885
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Lightning rod|something trying to leech power]] from [[the Storm Tempor]]."
+        },
+        "id": "97"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            3033,
+            2796
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Desert Trout]] south of [[Tempoross Cove]]."
+        },
+        "id": "96"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            3001,
+            2847
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of [[Tempoross Cove]]."
+        },
+        "id": "72"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2945,
+            2878
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of a cave in the [[Kharazi Jungle]] from the south."
+        },
+        "id": "78"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            3144,
+            2854
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Ruins of Unkah]] from north of the docks."
+        },
+        "id": "80"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            3282,
+            2445
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth east of [[the Great Conch]]."
+        },
+        "id": "51"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1711,
+            2818
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth east of the [[Shimmering Atoll]]."
+        },
+        "id": "309"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2118,
+            2716
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth east of the shipyard in the [[Sea of Souls]]."
+        },
+        "id": "311"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1969,
+            3597
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the east of the [[Hosidian Sea]]."
+        },
+        "id": "322"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1942,
+            2650
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the far south east of [[the Everdeep]]."
+        },
+        "id": "312"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2528,
+            2149
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the far south of [[the Lonely Sea]]."
+        },
+        "id": "274"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2766,
+            2382
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the middle of [[Anglerfish's Light]]."
+        },
+        "id": "53"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1979,
+            3211
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the middle of the [[Crystal Sea]]."
+        },
+        "id": "153"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            3044,
+            2722
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the middle of the [[Menaphite Sea]]."
+        },
+        "id": "192"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            3014,
+            2556
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the middle of the [[Turtle Belt]]."
+        },
+        "id": "50"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2041,
+            3023
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the middle of the [[Western Gate]]."
+        },
+        "id": "152"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            3338,
+            2622
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the south east of the [[Bay of Elidinis]]."
+        },
+        "id": "272"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1681,
+            3380
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the south of [[Crabclaw Bay]]."
+        },
+        "id": "321"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            3276,
+            2130
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the south of the [[Pearl Bank]]."
+        },
+        "id": "273"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1322,
+            2628
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the south west of the [[Misty Sea]]."
+        },
+        "id": "349"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2044,
+            3792
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south west of [[Lunar Isle]]."
+        },
+        "id": "326"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2917,
+            2765
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of [[Crash Island]]."
+        },
+        "id": "49"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1880,
+            3372
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of [[Port Roberts]]."
+        },
+        "id": "323"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2788,
+            2548
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of [[Red Rock]]."
+        },
+        "id": "47"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1898,
+            3048
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of [[Vatrachos Island]]."
+        },
+        "id": "307"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1851,
+            3668
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of [[the Dibber]]."
+        },
+        "id": "172"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1314,
+            2931
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of the [[Darkmoon Ravine]]."
+        },
+        "id": "350"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1821,
+            3166
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of the [[Fortis Colosseum]]."
+        },
+        "id": "324"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2276,
+            2598
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of the bank boat in the [[Barracuda Belt]]."
+        },
+        "id": "48"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2979,
+            3085
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south of [[Mudskipper Point]]."
+        },
+        "id": "44"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1889,
+            2882
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south of [[Vatrachos Island]]."
+        },
+        "id": "308"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2518,
+            3690
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south of [[Waterbirth Island]]."
+        },
+        "id": "241"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1762,
+            2611
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south of [[the Crown Jewel]]."
+        },
+        "id": "155"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2963,
+            2203
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south of [[the Onyx Crest]]."
+        },
+        "id": "271"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2676,
+            3035
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south of the [[Yanille]] Chain."
+        },
+        "id": "125"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2757,
+            3138
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south west of [[Brimhaven]]."
+        },
+        "id": "46"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2529,
+            2829
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south west of [[Corsair Cove]]."
+        },
+        "id": "126"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2988,
+            2949
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south west of [[the Pandemonium]]."
+        },
+        "id": "12"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2460,
+            2449
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south west of the [[Isle of Bones]]."
+        },
+        "id": "310"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2018,
+            3705
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth west of [[Buccaneers' Haven]]."
+        },
+        "id": "325"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2513,
+            3571
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth west of the [[Barbarian Outpost]]."
+        },
+        "id": "242"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1575,
+            2942
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth west of the [[Colossal Wyrm Remains]]."
+        },
+        "id": "348"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2012,
+            2874
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth west of the [[Isle of Souls]]."
+        },
+        "id": "129"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2873,
+            3397
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth west of the entrance to [[Taverley Dungeon]]."
+        },
+        "id": "45"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2460,
+            2881
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[chest of equipment]] north of the Myths' Guild."
+        },
+        "id": "140"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2334,
+            2781
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near the [[Tear of the Soul]] and sample the contents."
+        },
+        "id": "119"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2318,
+            2966
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] off the north eastern coast of the [[Isle of Souls]] and sample the contents."
+        },
+        "id": "120"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2476,
+            2969
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] off the western coast of the [[Feldip Hills]] and sample the contents."
+        },
+        "id": "121"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2279,
+            3036
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] south of the [[poison waste]] and sample the contents."
+        },
+        "id": "124"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2165,
+            3030
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Poison spill|toxic hazard]] in the middle of [[Zul-Egil]]."
+        },
+        "id": "144"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2476,
+            2707
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Old camp|abandoned camp]] on [[Anglers' Retreat]]."
+        },
+        "id": "138"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2300,
+            3043
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[Diseased coral|interesting coral]] south east of the [[Poison Waste]]."
+        },
+        "id": "141"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2318,
+            3057
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents at the mouth of the [[River Dougne]] west of [[Chompy Marsh]]."
+        },
+        "id": "134"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2495,
+            2708
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents east of [[Anglers' Retreat]]."
+        },
+        "id": "131"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2340,
+            2896
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents off the eastern coast of the [[Isle of Souls]]."
+        },
+        "id": "132"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2399,
+            3027
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Chompy Marsh]] from the south."
+        },
+        "id": "112"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2199,
+            3036
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Zul-Andra]] from the south."
+        },
+        "id": "114"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2429,
+            2852
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Myths' Guild]] from the west."
+        },
+        "id": "110"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2342,
+            2768
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the surrounding sea from the [[Tear of the Soul]]."
+        },
+        "id": "111"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2469,
+            3006
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south of [[Jiggig]]."
+        },
+        "id": "128"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2446,
+            2784
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south of the [[Myths' Guild]]."
+        },
+        "id": "127"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            3321,
+            2327
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather at the south east tip of [[Cape Conch]]."
+        },
+        "id": "58"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2638,
+            3009
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather north east of [[Rantz's cave]]."
+        },
+        "id": "104"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2979,
+            2905
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island east of the [[Kharazi Jungle]]."
+        },
+        "id": "57"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            1714,
+            3193
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island north of [[Civitas illa Fortis]]."
+        },
+        "id": "315"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            1188,
+            2822
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island north of [[Laguna Aurorae]]."
+        },
+        "id": "345"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2656,
+            3195
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island north of [[Port Khazard]]."
+        },
+        "id": "43"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2082,
+            2590
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island south east of [[Wintumber Island]]."
+        },
+        "id": "55"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            1867,
+            3458
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island south east of the [[Tithe Farm]]."
+        },
+        "id": "168"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2903,
+            2698
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island south of [[Crash Island]]."
+        },
+        "id": "56"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2864,
+            2311
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island south of [[Last Light]]."
+        },
+        "id": "59"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            1651,
+            3461
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island south of the [[Woodcutting Guild]]."
+        },
+        "id": "314"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2594,
+            3644
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island south west of [[Rellekka]]."
+        },
+        "id": "220"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2912,
+            3213
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island west of [[Rimmington]]."
+        },
+        "id": "42"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2542,
+            2541
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on the [[Isle of Bones]]."
+        },
+        "id": "54"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2335,
+            2921
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on the eastern coast of the [[Isle of Souls]]."
+        },
+        "id": "105"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2140,
+            2806
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on the south western coast of the [[Isle of Souls]]."
+        },
+        "id": "106"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2341,
+            3790
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on the southern coast of [[Neitiznot]]."
+        },
+        "id": "222"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            1928,
+            2791
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on the western coast of [[Deepfin Point]]."
+        },
+        "id": "283"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            1779,
+            2940
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather south east of [[Stonecutter Outpost]]."
+        },
+        "id": "282"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2498,
+            3546
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather west of the [[Barbarian Outpost]]."
+        },
+        "id": "221"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2157,
+            3274
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Elven river mine|deadly trap]] west of the [[Iorwerth Camp]]."
+        },
+        "id": "160"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2120,
+            3418
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Mynydd]] and sample the contents."
+        },
+        "id": "166"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2206,
+            3484
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Ynysdail]] and sample the contents."
+        },
+        "id": "165"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2161,
+            3203
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] off the western coast of [[Isafdar]] and sample the contents."
+        },
+        "id": "164"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2210,
+            3445
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Crystal dinghy|unusual boat]] north of [[Gwenith]]."
+        },
+        "id": "185"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2118,
+            3158
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Barrel of halberd poles|some lost cargo]] south east of [[Lledrith Island]]."
+        },
+        "id": "159"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2280,
+            3518
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island north west of [[Eagles' Peak]]."
+        },
+        "id": "167"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2149,
+            3068
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island west of [[Zul-Andra]]."
+        },
+        "id": "107"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2118,
+            3159
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island west of the [[Tyras Camp]]."
+        },
+        "id": "146"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2130,
+            3395
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather south west of [[Mynydd]]."
+        },
+        "id": "145"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2165,
+            3260
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents at the mouth of the [[Afon Ganol]] west of the [[Iorwerth Camp]]."
+        },
+        "id": "149"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2220,
+            3429
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north of [[Gwenith]]."
+        },
+        "id": "173"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2071,
+            3186
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of [[Lledrith Island]]."
+        },
+        "id": "148"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2163,
+            3318
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Prifddinas]]' western gates from the south west."
+        },
+        "id": "151"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2160,
+            3155
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Tyras Camp]] from the west."
+        },
+        "id": "150"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2120,
+            3345
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the middle of the [[Tirannwn Bight]]."
+        },
+        "id": "156"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2283,
+            3459
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of [[Gorlah]]."
+        },
+        "id": "170"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2260,
+            3589
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south west of [[Kraken Cove]]."
+        },
+        "id": "171"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2113,
+            3123
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth west of [[Port Tyras]]."
+        },
+        "id": "154"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2336,
+            2267
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Gnome the ball|a lost friend]] on [[Rainbow's End]]."
+        },
+        "id": "100"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2334,
+            2118
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Empty rowboat|a rowboat]] to the far south of [[Rainbow's End]]."
+        },
+        "id": "101"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2205,
+            2303
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Sunbleak Island]] and sample the contents."
+        },
+        "id": "66"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1821,
+            2439
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near the [[Isle of Serpents]] and sample the contents."
+        },
+        "id": "296"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1828,
+            2138
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a useful sign to the far south of the [[Isle of Serpents]]."
+        },
+        "id": "302"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            1881,
+            2445
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small islands east of the [[Isle of Serpents]]."
+        },
+        "id": "284"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2335,
+            2286
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north of [[Rainbow's End]]."
+        },
+        "id": "74"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2256,
+            2312
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the middle of [[Rainbow Reef]]."
+        },
+        "id": "52"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2057,
+            2317
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth west of [[Sunbleak Island]]."
+        },
+        "id": "313"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2902,
+            3965
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Boat shaped ice|failing boat]] north east of [[Weiss]]."
+        },
+        "id": "208"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2726,
+            3855
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[Safe kebbit burrow|hunter free haven]] on a small island west of [[Trollweiss Mountain]]."
+        },
+        "id": "200"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2113,
+            4142
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the far north of the Lunar Sea and sample the contents."
+        },
+        "id": "259"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1757,
+            4150
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the far north of the [[Everwinter Sea]] and sample the contents."
+        },
+        "id": "260"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2612,
+            4146
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the far north of the [[Stoneheart Sea]] and sample the contents."
+        },
+        "id": "263"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2775,
+            3935
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] in the middle of [[Weissmere]] and sample the contents."
+        },
+        "id": "262"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            1898,
+            4069
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near [[Brittle Isle]] and sample the contents."
+        },
+        "id": "184"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2785,
+            4046
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] near the large rock formations in [[Weissmere]] and sample the contents."
+        },
+        "id": "264"
+    },
+    {
+        "categoryId": "drink_crate_charting",
+        "position": [
+            2912,
+            4154
+        ],
+        "popup": {
+            "title": "Drink crate",
+            "description": "Find a [[Sealed crate]] north of [[Grimstone]] and sample the contents."
+        },
+        "id": "265"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2587,
+            3919
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find a [[shark corpse]] on a small island north west of [[Etceteria]]."
+        },
+        "id": "206"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2083,
+            3953
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find an [[Dead magical plant|odd dead plant]] on a small island north west of [[Lunar Isle]]."
+        },
+        "id": "202"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2709,
+            4124
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Periscope|evidence of spying]] north east of the [[Iceberg]]."
+        },
+        "id": "207"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2144,
+            4067
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find [[Floating brooms|some cleaning supplies]] north of [[Lunar Isle]]."
+        },
+        "id": "203"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2783,
+            3882
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[Floating sled|missing mountaineering equipment]] north of [[Trollweiss Mountain]]."
+        },
+        "id": "205"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            1762,
+            4005
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find some [[Toad spawn|odd eggs]] north east of the [[Fishing Hamlet]]."
+        },
+        "id": "190"
+    },
+    {
+        "categoryId": "sea_charting",
+        "position": [
+            2426,
+            3961
+        ],
+        "popup": {
+            "title": "Generic charting",
+            "description": "Find the [[wreck of the Fearless Fremennik]] south west of the [[Island of Stone]]."
+        },
+        "id": "204"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            1959,
+            4065
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on [[Brittle Isle]]."
+        },
+        "id": "224"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2600,
+            3910
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island north of [[Etceteria]]."
+        },
+        "id": "223"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2951,
+            3962
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island north of the [[Frozen Waste Plateau]]."
+        },
+        "id": "227"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            1817,
+            3965
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island north of the [[River of Souls]]."
+        },
+        "id": "169"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2447,
+            3995
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on a small island south west of the [[Island of Stone]]."
+        },
+        "id": "225"
+    },
+    {
+        "categoryId": "weather_charting",
+        "position": [
+            2793,
+            4020
+        ],
+        "popup": {
+            "title": "Weather",
+            "description": "Help the [[Meaty Aura Logist|meteorologist]] document the local weather on the large rock formations in [[Weissmere]]."
+        },
+        "id": "226"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1792,
+            4137
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents near the shipwrecks in the [[Everwinter Sea]]."
+        },
+        "id": "215"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            1866,
+            3911
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north east of the [[River of Souls]]."
+        },
+        "id": "176"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2880,
+            3985
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north of [[Weiss]]."
+        },
+        "id": "219"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2316,
+            3903
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north of the western cave on the [[Fremennik Isles]]."
+        },
+        "id": "216"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2833,
+            3960
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents north west of [[Weiss]]."
+        },
+        "id": "217"
+    },
+    {
+        "categoryId": "current_duck_charting",
+        "position": [
+            2433,
+            4006
+        ],
+        "popup": {
+            "title": "Current duck",
+            "description": "Test the currents west of the [[Island of Stone]]."
+        },
+        "id": "218"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2879,
+            4078
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Grimstone]] from the west."
+        },
+        "id": "239"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2237,
+            4064
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of [[Ungael]] from the west."
+        },
+        "id": "235"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2620,
+            4059
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Penguin Agility Course|KGP training area]] from the west."
+        },
+        "id": "238"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2990,
+            3971
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the [[Wilderness Agility Course|agility course]] in the [[Wilderness]] from the north."
+        },
+        "id": "240"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            1793,
+            3978
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the area north of the [[River of Souls]] from the east."
+        },
+        "id": "180"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2351,
+            3904
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the ice trolls of the [[Fremennik Isles]] from the north."
+        },
+        "id": "236"
+    },
+    {
+        "categoryId": "spyglass_charting",
+        "position": [
+            2781,
+            3987
+        ],
+        "popup": {
+            "title": "Spyglass",
+            "description": "Use your [[spyglass]] to get a good view of the large rock formations in [[Weissmere]] from their centre."
+        },
+        "id": "237"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2824,
+            4092
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the east of the [[Shiverwake Expanse]]."
+        },
+        "id": "252"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1970,
+            3966
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the middle of [[Winter's Edge]]."
+        },
+        "id": "246"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2061,
+            4118
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth in the north west of the Lunar Sea."
+        },
+        "id": "247"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2357,
+            3977
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of the [[Fremennik Isles]]."
+        },
+        "id": "249"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2475,
+            4133
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of the [[Island of Stone]]."
+        },
+        "id": "251"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2221,
+            3833
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north east of [[Pirates' Cove]]."
+        },
+        "id": "245"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            1823,
+            4018
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north of the [[River of Souls]]."
+        },
+        "id": "248"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2505,
+            3892
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north west of [[Miscellania]]."
+        },
+        "id": "243"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2816,
+            3975
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth north west of [[Weiss]]."
+        },
+        "id": "250"
+    },
+    {
+        "categoryId": "depth_charting",
+        "position": [
+            2664,
+            3954
+        ],
+        "popup": {
+            "title": "Diving",
+            "description": "With help from a [[mermaid guide]], document the water depth south of the [[Iceberg]]."
+        },
+        "id": "244"
+    }
+]
