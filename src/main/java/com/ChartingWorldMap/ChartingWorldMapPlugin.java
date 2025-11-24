@@ -43,6 +43,9 @@ public class ChartingWorldMapPlugin extends Plugin
 	@Inject
 	private WorldMapPointManager worldMapPointManager;
 
+	@Inject
+	private Gson gson;
+
 
 	private static final String[] CRATE_ICON = {"Charting_icon_-_Crate.png", "Charting_icon_-_Crate_complete.png"};
 	private static final String[] DEPTH_ICON = {"Charting_icon_-_Depth.png", "Charting_icon_-_Depth_complete.png"};
@@ -223,7 +226,6 @@ public class ChartingWorldMapPlugin extends Plugin
 				return;
 			}
 
-			Gson gson = new Gson();
 			Type listType = new TypeToken<List<MarkerData>>() {}.getType();
 			allMarkerData.addAll(gson.fromJson(new InputStreamReader(in, StandardCharsets.UTF_8), listType));
 		}
