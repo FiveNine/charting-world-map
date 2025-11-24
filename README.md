@@ -1,6 +1,6 @@
 # Charting World Map
 
-The Charting World Map plugin displays all charting locations on the world map with distinct icons for each type. Icons automatically update to show completion status when you chart a location.
+The Charting World Map plugin displays all charting locations on the world map with data and icons pulled from the wiki. Icons automatically update to show completion status when you chart a location.
 
 ![example](docs/example.png)
 
